@@ -16,7 +16,7 @@ eureka:
 
 spring:
   datasource:
-    url: jdbc:mysql://127.0.0.1:3306/spring-boot-cloud?characterEncoding=UTF-8
+    url: jdbc:mysql://127.0.0.1:3306/spring-boot-cloud?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
     driver-class-name: com.mysql.jdbc.Driver
     username: root
     password: root
