@@ -17,9 +17,11 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/zhangxd1989/spring-boot-cloud
+          uri: https://github.com/maiqing01/spring-boot-cloud
           label: master
           search-paths: config-repo
+          username: 641298213@qq.com
+          password: maiqing19960617.
   rabbitmq:
     host: 203.195.213.43
     port: 5672
