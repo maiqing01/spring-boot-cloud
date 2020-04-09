@@ -20,5 +20,3 @@ spring:
     driver-class-name: jdbc:mysql://127.0.0.1:3306/spring-boot-cloud?characterEncoding=UTF-8
     username: root
     password: root
-  jpa:
-    show-sql: true
